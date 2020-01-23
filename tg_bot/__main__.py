@@ -24,8 +24,6 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 
 My Channel - @HackersKnight & My Support Group @HackersKnightLoot
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/AneesVargheseKT/Modular-telegram-group-management-bot),
-you can create clone same like me..
 
 For more commands click /help...
 
